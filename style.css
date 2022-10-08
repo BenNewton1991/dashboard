@@ -193,6 +193,15 @@
     justify-content: center;
 }
 
+.img-holder {
+    max-width: 300px;
+    max-height: 300px;
+    min-height: 100px;
+    min-width: 100px;    
+    align-self: center;
+    justify-self: center;
+}
+
 .disp {
     width: 300px;
     height: 300px;
