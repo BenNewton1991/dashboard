@@ -196,6 +196,8 @@
 .img-holder {
     max-width: 300px;
     max-height: 300px;
+    min-width: 100px;
+    min-height: 100px;
     align-self: center;
     justify-self: center;
 }
