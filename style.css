@@ -176,6 +176,16 @@
     gap:20px;
 }
 
+.me {
+    margin-top: 50px;
+    max-height: 300px;
+    max-width: 300px;
+    align-self: center;
+    justify-self: center;
+    border-radius: 15px;
+
+}
+
 .content {
     border: 1px solid black;
     display: grid;
